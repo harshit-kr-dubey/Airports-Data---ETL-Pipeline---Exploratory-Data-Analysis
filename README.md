@@ -9,11 +9,12 @@ This project executes a complete **ETL (Extract, Transform, Load)** pipeline alo
 ```
 📁 airports-data-project
 │
-├── airports.csv                # Raw dataset
-├── transformed_airports.csv    # Cleaned dataset
-├── airports.db                 # SQLite database
-├── airports_etl.py             # ETL and EDA pipeline script
-├── README.md                   # Project documentation
+├── airports.csv                  # Raw dataset
+├── transformed_airports.csv      # Cleaned dataset
+├── airports.db                   # SQLite database
+├── airports_etl.py               # ETL and EDA pipeline script
+├── airports_data_pipeline.ipynb  # Implementation in colab
+├── README.md                     # Project documentation
 ```
 
 ---
